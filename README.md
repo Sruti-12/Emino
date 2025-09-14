@@ -1,2 +1,4 @@
-# Emino
-We solved a problem statement given by the UN as SGD goals by creating an AI/ML-based web application named "𝐄𝐌𝐈𝐍𝐎" which is an emotion recognition interface online that analyses the emotional and mental wellbeing of kids, a group, or through interrogation of a person in a live video.
+# SRET_HACKATHON_HT092
+
+![SRET HACKATHON HT092](https://user-images.githubusercontent.com/55569255/163031133-3f52e312-bf79-4773-a843-a52dd13955df.png)
+
